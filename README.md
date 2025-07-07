@@ -1,7 +1,7 @@
-# Airbnb Pricing Analysis: How Distance from the City Center Impacts Price and Bookings
+# 🏙️ Airbnb Pricing Analysis
 The goal of this project is to analyze Airbnb booking trends across multiple cities to uncover insights that could help increase guest satisfaction and revenue. Using SQL and Python, i explored patterns involving pricing, location, room type, and guest preferences. With a mix of statistical analysis, and colorful visualizations, I dove deep into location-based pricing dynamics.
 
-Dataset Overview
+**📂 Dataset Overview**
 - Location: Various cities
 - Listings: Private and shared rooms with variable capacity
 - Time Span: Includes multiple booking days
@@ -12,9 +12,7 @@ Dataset Overview
   Attraction and Restaurant Indexes
 
 
-The goal of this project is to analyze Airbnb booking trends across multiple cities to uncover insights that could help increase guest satisfaction and revenue. Using SQL and Python, i explored patterns involving pricing, location, room type, and guest preferences.
-
-**Technologies Used:**  
+**🛠️Technologies Used:**  
 - Python 
 - Pandas for data manipulation
 - Matplotlib & Seaborn for visualizations
