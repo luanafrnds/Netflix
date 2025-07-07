@@ -39,7 +39,7 @@ The goal of this project is to analyze Airbnb booking trends across multiple cit
 
 ## ✨ Sample Visualization
 
-> *This scatter plot shows each listing’s price based on how far it is from the city center—giving a clear view of pricing trends and outliers.*  
+> *This scatter plot shows each listing’s price based on how far it is from the city center, giving a clear view of pricing trends and outliers.*  
 
 
 ![Sample Chart: Price vs Distance](https://github.com/user-attachments/assets/6a7e7a84-43bb-48a2-abcb-116b10a1934b)
